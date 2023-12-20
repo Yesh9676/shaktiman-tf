@@ -100,8 +100,6 @@
             alarm_description   = "Alarm when Memory exceeds 90% for 2 consecutive periods"
         }
 
+![Alt text](images/image-2.png)
 
-![Alt text](../images/image.png)
-
-![Alt text](../images/image-1.png)
-
+![Alt text](images/image-3.png)
